@@ -1,3 +1,7 @@
+== Version 4.0.8
+
+* Added explicit 90 second timeout to `ShopifyAPI::Base`
+
 == Version 4.0.7
 
 * Added `ShippingAPI::ShippingZone`
